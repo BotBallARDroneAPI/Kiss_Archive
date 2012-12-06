@@ -1,0 +1,4 @@
+targets/cbc2/include/ARDroneAPI.h
+targets/cbc2/cbc2.target
+targets/cbc2/templates/ARDrone/Vision.template
+targets/cbc2/templates/ARDrone/Remote_Control.template
